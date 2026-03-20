@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>PSP Games BR</title>
+<style>
+body {
+    background: #0d0d0d;
+    color: white;
+    font-family: Arial;
+    text-align: center;
+}
+.game {
+    background: #1a1a1a;
+    margin: 15px;
+    padding: 15px;
+    border-radius: 10px;
+}
+img {
+    width: 200px;
+    border-radius: 10px;
+}
+a {
+    display: block;
+    margin: 10px;
+    padding: 10px;
+    background: blue;
+    color: white;
+    text-decoration: none;
+    border-radius: 8px;
+}
+.pix {
+    background: green;
+}
+</style>
+</head>
+
+<body>
+
+<h1>🎮 PSP Games BR</h1>
+
+<div class="game">
+    <h2>PES 2025 PPSSPP</h2>
+    <img src="https://via.placeholder.com/200">
+    <a href="#">BAIXAR JOGO</a>
+</div>
+
+<div class="game">
+    <h2>GTA San Andreas PSP</h2>
+    <
